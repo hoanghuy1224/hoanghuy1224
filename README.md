@@ -28,6 +28,6 @@
 <!-- CONTACT -->
 ### 📫 Contact Me
 <p>
-  <a href="mailto:hqhuy.12c3kx2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="hqhuy.12c3kx2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/share/1Y13Tyujon/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
