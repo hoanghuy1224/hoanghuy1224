@@ -6,7 +6,7 @@
 
 <!-- ABOUT ME -->
 ### 🧑‍💼 About Me
-- 🔭 Currently an intern at **ESRI VIETNAM**
+- 🔭 Currently an intern at **ZILLION joint stock company**
 - 💬 Feel free to ask me about programming languages such as **Java**, **PHP**, and more
 
 ---
