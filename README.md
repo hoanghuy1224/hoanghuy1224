@@ -7,7 +7,7 @@
 
 ### 🧑‍💼 Giới thiệu bản thân
 
-* 🏢 Hiện đang làm việc tại EKMAP, tham gia phát triển các giải pháp phần mềm trong lĩnh vực **GIS, quy hoạch và dữ liệu không gian**.
+* 🏢 Hiện đang làm việc tại eKMap, tham gia phát triển các giải pháp phần mềm trong lĩnh vực **GIS, quy hoạch và dữ liệu không gian**.
 * 💻 Tập trung phát triển các ứng dụng **Desktop** và **Web API** trên nền tảng **.NET**.
 * 🗺️ Có kinh nghiệm xây dựng các **Plugin QGIS**, ứng dụng GIS Desktop và các hệ thống phục vụ quản lý dữ liệu không gian.
 * 🔭 Tham gia phát triển các hệ thống phần mềm phục vụ doanh nghiệp với yêu cầu về hiệu năng, khả năng mở rộng và tính ổn định.
